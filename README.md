@@ -1,0 +1,2 @@
+# HelloAritra
+My first repository.
